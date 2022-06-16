@@ -1,5 +1,6 @@
 # CLAP4
 Write a program in C, that asks from user to enter marks obtained in 5 subjects (out of 100) and find the percentage marks of student. The answer to this question is given below:
+
 #include <stdio.h>
 
 int main()
