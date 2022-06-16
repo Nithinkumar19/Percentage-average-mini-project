@@ -21,7 +21,7 @@ scanf("%f%f%f%f%f",&Physics,&Chemistry,&Maths,&CS,&English);
 
 sum = Physics+Chemistry+Maths+CS+English;
 
-average = sum/(float)5;
+average = sum/5;
 printf("Percentage marks = %.2f", average);
 
 return 0;
